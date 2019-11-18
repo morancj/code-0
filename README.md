@@ -1,6 +1,12 @@
-# Linaro-ITS Template
+# Code-1 repository
 
-Settings for Git and editors popular with [Linaro-ITS](https://github.com/linaro-its/).
+## Cloning this repository
+
+Please add the `--recurse-submodules` option when cloning this repository: this will ensure the correct documentation is included. If you've already cloned this repo, you should add the submodules with:
+
+```bash
+git submodule update --init --recursive
+```
 
 ## Documentation
 
