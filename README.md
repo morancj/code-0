@@ -1,4 +1,4 @@
-# Code-1 repository
+# Code-0 repository
 
 ## Cloning this repository
 
@@ -13,3 +13,7 @@ git submodule update --init --recursive
 Please see the `git submodule` `documentation-0`: this will take you to the current wiki.
 
 If you're reading this on GitHub's preview under the `Code` view, you can click `documentation-0` above. Otherwise, you must use this link: [documentation-0](https://github.com/morancj/documentation-0/wiki).
+
+## Configuring your Visual Studio Code Workspace
+
+If you're new to `git submodules`, you should hide the `documentation-0` directory in the workspace. To do so, add `documentation-0/**` to `files.exclude`.
