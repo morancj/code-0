@@ -1,3 +1,4 @@
 [submodule "documentation-0"]
 	path = documentation-0
 	url = https://github.com/morancj/documentation-0.wiki.git
+	branch = master
