@@ -1,4 +1,4 @@
-[submodule "documentation-0"]
-	path = documentation-0
+[submodule "documentation-0.wiki"]
+	path = documentation-0.wiki
 	url = https://github.com/morancj/documentation-0.wiki.git
 	branch = .
