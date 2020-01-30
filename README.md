@@ -8,13 +8,13 @@ Please add the `--recurse-submodules` option when cloning this repository: this 
 git submodule update --init --recursive
 ```
 
-The size of the checkout directory should increase afterwards. See [wiki](documentation-0) for more.
+The size of the checkout directory should increase afterwards. See [wiki](documentation-0/Home.md) for more.
 
 ## Documentation
 
 Please see the `git submodule` `documentation-0`: this will take you to the current wiki.
 
-If you're reading this on GitHub's preview under the `Code` view, you can click `documentation-0` above. Otherwise, you must use this link: [documentation-0](https://github.com/morancj/documentation-0/wiki).
+If you're reading this on GitHub's preview under the `Code` view, you can click `wiki` above. In Visual Studio Code, you can `alt + click` the `wiki` link. Otherwise, you must use this link: [documentation-0](https://github.com/morancj/documentation-0/wiki).
 
 ## Configuring your Visual Studio Code Workspace
 
