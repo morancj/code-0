@@ -14,7 +14,9 @@ The size of the checkout directory should increase afterwards. See [wiki](docume
 
 Please see the `git submodule` `documentation-0`: this will take you to the current wiki.
 
-If you're reading this in an editor such as Visual Studio Code, you can  `alt + click` `wiki` above. If you're reading in on GitHub, you can use this link: [documentation-0](https://github.com/morancj/documentation-0/wiki).
+If you're reading this in an editor such as Visual Studio Code, you can  `alt + click` `wiki` above.
+
+If you're reading in on GitHub, you can use this click `documentation-0` in the file tree, or use this link: [documentation-0](https://github.com/morancj/documentation-0/wiki). This is required because GitHub doesn't [pick up relative submodule URLs currently](https://github.com/isaacs/github/issues/391).
 
 ## Configuring your Visual Studio Code Workspace
 
